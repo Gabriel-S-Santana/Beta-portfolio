@@ -2,6 +2,10 @@
 
 Bem-vindo ao meu portfólio pessoal! Aqui você encontrará uma seleção dos meus projetos e trabalhos recentes, demonstrando minhas habilidades e paixão por web dev!
 
+Acesse aqui 👇
+
+[LINK](https://gabriel-s-santana.github.io/Beta-portfolio/)
+
 ## Projeto Destacado
 
 ### Primeiro Ato
@@ -18,6 +22,4 @@ Fique à vontade para entrar em contato comigo para oportunidades de colaboraç�
 
 ## Cor da Acentuação
 
-Neste portfólio, utilizamos a cor #40E0D0 para destacar alguns detalhes importantes. Essa cor foi escolhida para transmitir [inserir sensações ou significados associados à cor, por exemplo: criatividade, inovação, profissionalismo, etc.]. Sinta-se à vontade para explorar e aproveitar o conteúdo, mantendo esse toque de cor em mente.
-
----
+Neste portfólio, utilizamos a cor #40E0D0 para destacar alguns detalhes importantes. Essa cor foi escolhida para transmitir personalidade e sutileza e eficiência, que é o que busco para os meus projetos.
