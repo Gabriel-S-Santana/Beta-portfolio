@@ -2,6 +2,10 @@
 
 Bem-vindo ao meu portfólio pessoal! Aqui você encontrará uma seleção dos meus projetos e trabalhos recentes, demonstrando minhas habilidades e paixão por web dev!
 
+Acesse aqui 👇
+
+[LINK](https://gabriel-s-santana.github.io/Beta-portfolio/)
+
 ## Projeto Destacado
 
 ### Primeiro Ato
