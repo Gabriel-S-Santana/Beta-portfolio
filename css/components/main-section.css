@@ -1,0 +1,32 @@
+.main-section {
+    background-color: #40E0D0;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #2C3E50;
+}
+
+.main-section .main-title {
+    margin-bottom: 135px;
+}
+
+.main-section.-bgBlack {
+    background-color: #000;
+}
+
+.main-section.-bdFirst {
+ border-color: #40E0D0;   
+}
+
+.main-section.-bgBlue {
+    background-color: #222222;
+}
+
+.main-section.-bdSecond {
+    border-color: #000;
+}
+
+.main-section.-bgGray {
+    background-color: #3A4042;
+}
