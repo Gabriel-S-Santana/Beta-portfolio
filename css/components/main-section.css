@@ -30,3 +30,7 @@
 .main-section.-bgGray {
     background-color: #3A4042;
 }
+
+.align-center {
+    align-items: center;
+}
