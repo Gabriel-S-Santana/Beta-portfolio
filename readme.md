@@ -19,4 +19,3 @@ Fique à vontade para entrar em contato comigo para oportunidades de colaboraç�
 ## Cor da Acentuação
 
 Neste portfólio, utilizamos a cor #40E0D0 para destacar alguns detalhes importantes. Essa cor foi escolhida para transmitir personalidade e sutileza e eficiência, que é o que busco para os meus projetos.
----
